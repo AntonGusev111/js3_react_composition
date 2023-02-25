@@ -1,0 +1,156 @@
+.HeaderCategories{
+  margin-left: 35px;
+  display: flex;
+}
+
+.categoriesButton{
+  border: 0px solid;
+  background-color: white;
+  color: blue;
+}
+
+.HeaderDate{
+  margin-left: 15px;
+  font-size: 10px;
+}
+
+.categoriesButton:hover{
+  cursor: pointer;
+}
+
+.newsTable{
+  margin-left: 25px;
+}
+
+.newsRow{
+  display: flex;
+}
+
+.imgNews{
+  width: 20px;
+}
+
+.textNews{
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.header{
+  display: flex;
+}
+
+.TopAdvertisement{
+  display: block;
+}
+
+.TopAdvertisement{
+  margin-left: 25%;
+}
+
+.TopAdvImg{
+  width: 80px;
+  border-radius: 75px;
+}
+
+.TopAdvHeader{
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.TopAdvText{
+  font-size: 12px;
+  margin-top: -2px;
+}
+
+.CurBlock{
+  margin-left: 50px;
+  margin-top: -50px;
+  display: flex;
+}
+
+.cur{
+  font-size: 12px;
+  margin-left: 10px;
+  display: flex;
+}
+
+.curElem{
+  margin-left: 3px;
+}
+
+.search{
+  display: flex;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+
+.searchLogo{
+  width: 5%;
+}
+
+.serchUrl{
+  text-decoration: none;
+}
+
+.serchVariant{
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+.searchExample{
+  font-size: 10px;
+}
+
+.fontGrey{
+  color: rgb(101, 102, 102);
+}
+
+.footer{
+  display: flex;
+}
+
+.WeatherBlock{
+  margin-left: 25px;
+}
+
+.blockWeatherContent{
+  display: flex;
+}
+
+.imgWeather{
+  display: flex;
+  width: 70px;
+  height: 70px;
+}
+
+.TDaysWeather{
+  margin-left: 50px;
+  font-size: 12px;
+}
+
+.footerHeader{
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.footerBlockRow{
+  font-size: 12px;
+}
+
+.footerInfoBlock{
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.footerBlockBtn{
+  width: 10px;
+  height: 10px;
+}
+
+.footerBlockUrl{
+  text-decoration: none;
+}
+
+.footerColmn1{
+  margin-left: 50px;
+}

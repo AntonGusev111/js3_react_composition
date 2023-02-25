@@ -1,0 +1,8 @@
+.CollapseBlock{
+  border: 0.3px solid rgb(134, 131, 131);
+  width: 200px;
+}
+
+.ReactCollapse--collapse {
+  transition: height 5000ms;
+ }

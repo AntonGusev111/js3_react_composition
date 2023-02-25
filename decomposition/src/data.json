@@ -1,0 +1,234 @@
+{
+    "news": {
+      "categories":["Сейчас в СМИ", "В Германии","Рекомендуем"],
+      "news": [{
+        "categories":"Сейчас в СМИ",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 1",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"Сейчас в СМИ",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 2",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"Сейчас в СМИ",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 3",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"В Германии",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 1",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"В Германии",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 2",
+        "src":"www.example.ru"
+      },{
+        "categories":"В Германии",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 3",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"Рекомендуем",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 1",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"Рекомендуем",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 2",
+        "src":"www.example.ru"
+      },
+      {
+        "categories":"Рекомендуем",
+        "pict": "https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/1x/external-jpg-graphic-design-xnimrodx-lineal-color-xnimrodx.png",
+        "text": "Новость 3",
+        "src":"www.example.ru"
+      }]},
+      "currencies":[
+        {
+          "name":"usd",
+          "rate":63.82,
+          "rialto":"MOEX",
+          "dynamics":"+0.09%"
+        },
+        {
+          "name":"euro",
+          "rate":70.80,
+          "rialto":"MOEX",
+          "dynamics":"+0.1%"
+        },
+        {
+          "name":"oil",
+          "rate":70.80,
+          "rialto":"",
+          "dynamics":"+1.39%"
+        }
+      ],
+      "top_advertisement":{
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa2A_jxcqNf6-vNsNCfNqbOg7eZoM-8b_FsFQbUhs&s",
+        "header_adver":{
+          "text":"Работа над ошибками",
+          "src":"www.example.com"
+        },
+        "text":"Смотрите на яндекс"
+      },
+      "search_block":{
+        "variants_btn":[{
+          "text":"Видео",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Картинки",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Новости",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Карты",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Маркет",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Переводчик",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Эфир",
+          "url":"www.serch-example.ru"
+        },
+        {
+          "text":"Еще",
+          "url":"www.serch-example.ru"
+        }],
+        "img":"https://img1.freepng.ru/20180413/wzq/kisspng-yandex-browser-computer-software-web-browser-inter-opera-5ad12831747231.016058151523656753477.jpg",
+        "text_btn":"Найти",
+        "example_value":{
+          "text":"фаза луны сегодня",
+          "url":"www.example.com"
+        }
+      },
+      "advertising_banner":{
+        "img":"https://img.freepik.com/free-vector/flat-horizontal-sale-banner-template-with-photo_23-2149000923.jpg",
+        "url":"www.example.com"
+      },
+      "footer":{
+        "weather":{
+          "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUauZsrtyOC3qv_xL1P3HTK-D3USQAczXSQ&usqp=CAU",
+          "temp_now":"+17",
+          "temp_morning":"+17",
+          "temp_day":"+20"
+        },
+        "info_blocks":[
+          {
+            "header":{
+              "url":"www.example.ru",
+              "text":"Посещаемое",
+              "btn":""
+            },
+            "block":[
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Недвижимость",
+                "text":"о сталинках",
+                "btn":""
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Маркет",
+                "text":"люстры",
+                "btn":""
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Авто.ру",
+                "text":"привод 4х4",
+                "btn":""
+              }
+            ]
+          },
+          {
+            "header":{
+              "url":"www.example.ru",
+              "text":"Карта германии",
+              "btn":""
+            },
+            "block":[
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Расписание",
+                "btn":""
+              }
+            ]
+          },
+          {
+            "header":{
+              "url":"www.example.ru",
+              "text":"Телепрограмма",
+              "btn":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cxY7kFdi63ivlEe_-xQSeI81NIz5BOSajw&usqp=CAU"
+            },
+            "block":[
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"02:00 ТНТ",
+                "text":"ТНТ интернешнл",
+                "btn":""
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"02:15 Джинглики",
+                "text":"Карусель",
+                "btn":""
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"02:25 Наедине со всеми",
+                "text":"первый",
+                "btn":""
+              }
+            ]
+          },
+          {
+            "header":{
+              "url":"www.example.ru",
+              "text":"Эфир",
+              "btn":""
+            },
+            "block":[
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Управление как искуство",
+                "text":"Успех",
+                "btn":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cxY7kFdi63ivlEe_-xQSeI81NIz5BOSajw&usqp=CAU"
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Ночь. Мир в это время",
+                "text":"земля тв",
+                "btn":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cxY7kFdi63ivlEe_-xQSeI81NIz5BOSajw&usqp=CAU"
+              },
+              {
+                "url":"www.exmaple.ru",
+                "url_text":"Андрей Вознесенский",
+                "text":"совершенно секретно",
+                "btn":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cxY7kFdi63ivlEe_-xQSeI81NIz5BOSajw&usqp=CAU"
+              }
+            ]
+          }
+        ]
+      }
+  }
